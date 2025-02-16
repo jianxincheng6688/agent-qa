@@ -1,0 +1,3 @@
+config_file/OPEN_AI_KEY.env 
+*.env 
+.env* 
